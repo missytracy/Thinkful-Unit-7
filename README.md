@@ -1,13 +1,7 @@
 # Thinkful-Unit-7
 Final Capstone Project
 
-Time-Series Analysis of Municipal Water Consumption in Austix, TX
+Time-Series Analysis of Solar Energy Stock
 
-A work in progress...
-
-
-Goals Include:
-* Exploratory data analysis
-* Time-series analysis 
-* Time-series forecasting using ARIMA, LSTM Neural Network, and Prophet (Facebook) forecasting tools
-* Interactive visualizations
+Check out the interactive Tableau dashboard that goes along with this project:
+https://public.tableau.com/profile/missy.tracy#!/vizhome/SolarInvestingDashboard/Dashboard1?publish=yes
